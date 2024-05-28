@@ -1,0 +1,56 @@
+C Question:
+
+1. what is c
+2. why C is faster ?
+3. we have many lang then why we are gonig to use C?
+4. what is data types in C
+5. what is difference b/w c and embedded c
+6. what is native and cross compilation
+7. what is gcc compiler
+8. what is token, keywords and identifier in compilation
+9. Different stage of compilation of C source code.
+10. what is linking in c 
+11. what is memory bytes and how much bytes of data will take by each type of data in c
+12. what is operators in c and where to use which one 
+13. what is the entry point of compilier in c code.
+14. difference b/w post increment and pre increment.
+15. bitwise operator in c 
+16. what is the difference b/w function decelaration, defination, and call
+17. where to use continue and break'
+18. pattern printing 
+19. recurison in c
+20. what is pointer 
+21. pre and post increment of pointer
+22. const pointer in C
+23. what is null pointer, dangling pointer
+24. what is memory leak
+25. what is diffence between array and string
+26. string manupulation small code.
+27. what is enum and #define 
+28. what is conditonal compilation
+28. what is macro
+29. what is static, global, auto and register variable.
+30 what is the scope of a variable.
+31. memory management in c.
+
+
+Embedded Question
+1. what is interupt.
+2. what is stack and queue.
+3. what is microcontroller.
+4. what is function pointer
+5. what is startup code
+6. what is ISR
+7. what is volitiles keywords
+8. difference b/w const and volitile
+8. what is interrupt latency
+9. what is segmentation fault.
+10. What is a reentrant function?
+11. What Is a Virtual Memory in Embedded C
+12. What do you understand by Wild Pointer
+13. is it possible to give any parameter to the ISR and have it return a value
+14. What exactly do you mean by machine code?
+15. What is the relationship between machine cycle period and oscillator frequency?
+16. What does the term "memory fragmentation" mean to you?
+17. What kinds of memory are there in a C-based embedded system?
+18. Which compiler is used for embedded C?
